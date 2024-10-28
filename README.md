@@ -34,7 +34,7 @@ Implemeted the paper "[Rapid and effective segmentation of 3D models using rando
 
 - This really gives good results. I have implemented FPS seed selection (it is great), and random seed selection (good).. However, the linear system solution exists for the 3-neighbor triangles. Interestingly, our many models include some triangles having more than 3 neighbors.. Hence the system solution vanishes, and I can not get a result.. Probably I could not get result for some meshes because of the reason that I said above, but still an other possible reason may be  the long computation time of matrix calculations. I have used Eigen's SparseQR sparse matrix solving library. To sum up, I could not get any result for some meshes even though I wait more than 2 hours. I have obtained really good results for the horse.
   
-  YOU CAN FIND MY SCREEN SHOTS IN THE "ScreenShots" FOLDER.
+  YOU CAN FIND MY SCREEN SHOTS IN THE "Screenshots" FOLDER.
   
   YOU CAN BUILD MY CODE BY JUST TYPING "make" command.
 
