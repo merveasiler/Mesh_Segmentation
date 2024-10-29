@@ -62,6 +62,8 @@ ADDITONAL THINGS
 [1] Shapira, L., Shamir, A., & Cohen-Or, D. (2008). Consistent mesh partitioning and skeletonisation using the shape diameter function. The Visual Computer, 24, 249-259.
 
 [2] Lai, Y. K., Hu, S. M., Martin, R. R., & Rosin, P. L. (2009). Rapid and effective segmentation of 3D models using random walks. Computer Aided Geometric Design, 26(6), 665-679.
+
+
   
   
   
