@@ -1,4 +1,4 @@
-The followings are implemented:
+The followings are implemented: 
 
 Geodesic Computation:
 
